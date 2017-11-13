@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="eighteen_sp">18dp</dimen>
+    <dimen name="photo_title_height">150dp</dimen>
+    <dimen name="twenty_two_sp">22sp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="twelfth_dp">12dp</dimen>
+</resources>

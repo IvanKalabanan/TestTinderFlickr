@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="albums_placeholder">For now have not any albums.</string>
+    <string name="like_counter">Likes : %1$s</string>
+    <string name="dislike_counter">Dislikes : %1$s</string>
+    <string name="album_info">Album info</string>
+    <string name="dialog_info_title">Title : %1$s</string>
+    <string name="dialog_info_description">Description : %1$s</string>
+    <string name="dialog_info_create_date">Create at %1$s</string>
+    <string name="dialog_info_photo_count">In album %1$s photos</string>
+    <string name="ok">OK</string>
+</resources>
